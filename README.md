@@ -35,9 +35,10 @@ Ao longo do tempo, adicionarei aqui meus projetos, exercícios avançados, imple
   <li>Python</li>
   <li>C</li>
   <li>C++</li>
-  <li>SQL / MySQL</li>
+  <li>SQL / PostgreSQL</li>
   <li>Git e GitHub</li>
   <li>HTML</li>
+  <li>Lisp e PROLOG</li>
 </ul>
 
 <hr/>
