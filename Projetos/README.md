@@ -1,13 +1,14 @@
 <h2>Projetos</h2>
 
 <section>
-  <h3>Busca de Dados com Grafos</h3>
+  <h3>Análise de Redes — Hiperlinks da Wikipédia</h3>
   <p>
-    Desenvolvi este projeto em Python para buscar dados usando grafos. O grafo representa as relações entre os dados e permite usar essas conexões na busca. O projeto foi uma oportunidade de aplicar, na prática, conceitos de estruturas de dados e algoritmos.
+    O projeto investiga como os artigos da Wikipédia relacionados à Ciência da Computação se conectam. A partir do artigo “Ciência da computação”, foi realizada uma busca em largura (BFS) até dois níveis de profundidade, resultando em um grafo com 397 artigos e 9.246 hiperlinks direcionados.
+    A análise examina a estrutura da rede e as medidas de centralidade dos artigos, além de avaliar até que ponto os modelos de Erdős–Rényi, Watts–Strogatz e Barabási–Albert reproduzem as características observadas.
   </p>
   <ul>
     <li><strong>Tecnologias:</strong> Python</li>
-    <li><strong>Repositório:</strong> <a href="https://github.com/Guibpb/Projeto1Grafos" target="_blank">Grafos</a></li>
+    <li><strong>Repositório:</strong> <a href="https://github.com/Guibpb/Projeto1Grafos" target="_blank">Hyperlinks Wikipedia</a></li>
   </ul>
 </section>
 
@@ -59,9 +60,9 @@
 </section>
 
 <section>
-  <h3>Jogo em Godot</h3>
+  <h3>Tower Defense — Jogo em Godot</h3>
   <p>
-    Estou desenvolvendo um jogo com a Godot Engine. O projeto está em andamento.
+    Estou desenvolvendo, em grupo, um jogo do gênero Tower Defense na Godot Engine para a disciplina de Computação Gráfica. A proposta é criar um jogo de estratégia em que o jogador posiciona torres para conter o avanço dos inimigos. O projeto está em andamento e é uma oportunidade de aplicar os conceitos da disciplina ao desenvolvimento de um jogo interativo.
   </p>
   <ul>
     <li><strong>Tecnologias:</strong> Godot Engine</li>
