@@ -1,10 +1,33 @@
 <h2>Projetos</h2>
 
 <section>
+  <h3>Busca de Dados com Grafos</h3>
+  <p>
+    Desenvolvi este projeto em Python para buscar dados usando grafos. O grafo representa as relações entre os dados e permite usar essas conexões na busca. O projeto foi uma oportunidade de aplicar, na prática, conceitos de estruturas de dados e algoritmos.
+  </p>
+  <ul>
+    <li><strong>Tecnologias:</strong> Python</li>
+    <li><strong>Repositório:</strong> <a href="https://github.com/Guibpb/Projeto1Grafos" target="_blank">Grafos</a></li>
+  </ul>
+</section>
+
+<section>
+  <h3>Clareza — Planejamento Financeiro Pessoal</h3>
+  <p>
+    Desenvolvi o Clareza para organizar receitas, despesas e faturas de cartão em um planejamento mensal. A aplicação permite acompanhar o saldo atual, projetar o fechamento do mês e visualizar os gastos por categoria.
+    Implementei a importação de faturas em PDF do Banco Inter, com sugestões de categorias, revisão dos lançamentos antes de salvar e identificação de duplicidades ao reimportar uma fatura. A aplicação funciona pelo navegador e armazena os dados localmente em SQLite.
+  </p>
+  <ul>
+    <li><strong>Tecnologias:</strong> React, TypeScript, Node.js, SQLite e PDF.js</li>
+    <li><strong>Repositório:</strong> <a href="https://github.com/Guibpb/Planejamento-Financeiro-Pessoal" target="_blank">Clareza</a></li>
+  </ul>
+</section>
+
+<section>
   <h3>USPfy</h3>
   <p>
     Este projeto foi desenvolvido na disciplina de Programação Orientada a Objetos, utilizando Java nativo. Trata-se de um aplicativo capaz de baixar e reproduzir músicas, além de simular a interação entre Usuários, Administradores e Artistas em um ambiente online.
-Trabalhando ao lado de mais dois colegas de faculdade, pude aplicar na prática os principais conceitos de POO na construção de uma aplicação que simula um serviço moderno de streaming de música. Esse projeto consolidou meu entendimento de abstração, encapsulamento, herança e polimorfismo, além de reforçar boas práticas de desenvolvimento em equipe.
+    Trabalhando ao lado de mais dois colegas de faculdade, pude aplicar na prática os principais conceitos de POO na construção de uma aplicação que simula um serviço moderno de streaming de música. Esse projeto consolidou meu entendimento de abstração, encapsulamento, herança e polimorfismo, além de reforçar boas práticas de desenvolvimento em equipe.
   </p>
   <ul>
     <li><strong>Tecnologias:</strong> Java, JavaFx</li>
@@ -27,7 +50,7 @@ Trabalhando ao lado de mais dois colegas de faculdade, pude aplicar na prática 
   <h3>Problema dos Três Corpos</h3>
   <p>
     Este projeto foi desenvolvido utilizando a engine Godot para simular a interação gravitacional entre múltiplos corpos. A aplicação calcula massa, distância e força gravitacional entre os objetos, permitindo visualizar em tempo real o movimento resultante dessas interações.
-Meu grupo de faculdade utilizou essa simulação para demonstrar a natureza caótica presente em sistemas com três ou mais corpos influenciados mutuamente por gravidade, evidenciando comportamentos complexos e imprevisíveis.
+    Meu grupo de faculdade utilizou essa simulação para demonstrar a natureza caótica presente em sistemas com três ou mais corpos influenciados mutuamente por gravidade, evidenciando comportamentos complexos e imprevisíveis.
   </p>
   <ul>
     <li><strong>Tecnologias:</strong> Godot Engine</li>
@@ -36,10 +59,21 @@ Meu grupo de faculdade utilizou essa simulação para demonstrar a natureza caó
 </section>
 
 <section>
+  <h3>Jogo em Godot</h3>
+  <p>
+    Estou desenvolvendo um jogo com a Godot Engine. O projeto está em andamento.
+  </p>
+  <ul>
+    <li><strong>Tecnologias:</strong> Godot Engine</li>
+    <li><strong>Repositório:</strong> <a href="https://github.com/Guibpb/Tower-Defense-Game" target="_blank">Tower Defense</a></li>
+  </ul>
+</section>
+
+<section>
   <h3>Árvore M-Vias</h3>
   <p>
     Este projeto foi desenvolvido na disciplina de Algoritmos e Estruturas de Dados. Ele consiste em uma aplicação construída integralmente em C++ para armazenar e buscar dados de pessoas de forma eficiente. Para isso, utilizamos a estrutura de dados Árvore M-vias e realizamos o armazenamento em arquivos binários, garantindo melhor desempenho nas operações de leitura e escrita.
-Trabalhei nesse projeto junto ao meu grupo de faculdade, e ele foi fundamental para entendermos e aplicarmos, na prática, conceitos essenciais da disciplina em problemas reais.
+    Trabalhei nesse projeto junto ao meu grupo de faculdade, e ele foi fundamental para entendermos e aplicarmos, na prática, conceitos essenciais da disciplina em problemas reais.
   </p>
   <ul>
     <li><strong>Tecnologias:</strong> C++</li>
